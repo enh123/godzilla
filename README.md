@@ -25,4 +25,6 @@ CreateInstance("MAIN")
 
 6.修改了 BadPotato.dll 和 SweetPotato.dll 使其能够绕过wdf 正常加载并执行
 
-7.对webshell进行了简单免杀
+7.对webshell进行了简单免杀并添加随机的返回流量
+
+
